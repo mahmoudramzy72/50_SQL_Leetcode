@@ -50,6 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Big_Countries.sql" />
     <Content Include="Find_Customer_Referee.sql" />
     <Content Include="Recyclable_And_Low_Fat_Products.sql" />
   </ItemGroup>
