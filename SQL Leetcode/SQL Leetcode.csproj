@@ -53,6 +53,7 @@
     <Content Include="Article_Views_I.sql" />
     <Content Include="Big_Countries.sql" />
     <Content Include="Find_Customer_Referee.sql" />
+    <Content Include="Invalid_Tweets.sql" />
     <Content Include="Recyclable_And_Low_Fat_Products.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
